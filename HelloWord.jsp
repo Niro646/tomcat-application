@@ -9,7 +9,7 @@
 
 <body>
 
-<font size="20" color="blue"><%="HelloWorld" %></font>
+<font size="10" color="orange"><%="HelloWorld" %></font>
 
 </body>
 </html>
