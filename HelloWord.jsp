@@ -16,7 +16,7 @@
         }
     %>
     <h1> <%= question %> </h1>
-    <form action="check-human.jsp" method="get">
+    <form action="HelloWord.jsp" method="get">
         <input type="text" name="answer">
         <input type="submit" value="Submit">
     </form>
