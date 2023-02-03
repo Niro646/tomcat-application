@@ -2,6 +2,11 @@
 <html>
 <head>
     <title>Human Check</title>
+    <style>
+        body {
+            background-color: lightgreen;
+        }
+    </style>
 </head>
 <body>
     <%
