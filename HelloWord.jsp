@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html>
-<head>
+<htm>
+<hea>
     <title>Human Check</title>
     <style>
         body {
