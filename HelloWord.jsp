@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<htm>
-<hea>
+<html>
+<head>
     <title>Human Check</title>
     <style>
         body {
@@ -10,7 +10,7 @@
 </head>
 <body>
     <%
-        String question = "What is the answer to life, the universe, and everything?";
+        String question = "What is the answer to life, the universe, and everything!!!?";
         String answer = request.getParameter("answer");
         String result = "";
 
